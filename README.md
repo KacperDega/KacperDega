@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">Programming And IT Enthusiast from Poland</h3>
 
+---
+
 ### 🌟 About Me
 
 - 🔭 **Currently Working On**:  [SVELOVE](https://github.com/TeamProjectUMCS/TeamProject)
 
 - 🌱 **Currently Learning**: Spring Boot 🍃
 
+---
 
 ### 🛠️ Languages and Tools
 <p align="center">
